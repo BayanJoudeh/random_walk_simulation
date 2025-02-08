@@ -1,5 +1,3 @@
-# random_walk_simulation
-# Random Walk Simulation
 
 This project simulates multiple random walks and visualizes the distribution of the final positions using Python.
 
